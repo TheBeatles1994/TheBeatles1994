@@ -1,6 +1,6 @@
 ### Hi, I am Zhiheng Sun 👋
 
-![](https://github-readme-stats.vercel.app/api?username=TheBeatles1994&theme=blue-green&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=TheBeatles1994&theme=blue-green&show_icons=true&hide=stars)
 
 <!--
 **TheBeatles1994/TheBeatles1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
