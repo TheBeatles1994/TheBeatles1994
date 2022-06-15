@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I am Zhiheng Sun 👋
+
+![](https://github-readme-stats.vercel.app/api?username=TheBeatles1994&theme=blue-green&show_icons=true)
 
 <!--
 **TheBeatles1994/TheBeatles1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ☁️ I’m currently working on container service product based on kubernetes at Alibaba Cloud.
+- 💾 I'm owner of [open-local](https://github.com/alibaba/open-local), a cloud-native local storage management system.
+- ☸ I'm owner of [open-simulator](https://github.com/alibaba/open-simulator), a K8s cluster simulator for resource capacity planning.
+- 🎵 I'm a amateur musician, you can listen to my songs at [NetEase Cloud Music](https://music.163.com/#/artist?id=12702335).
+- 🎸 I won the first place in the school guitar competition, and I am a big fan of Blues.
