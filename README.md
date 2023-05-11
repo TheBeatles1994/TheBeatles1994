@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ☸ I'm owner of [open-simulator](https://github.com/alibaba/open-simulator), a K8s cluster simulator for resource capacity planning.
 - 🎵 I'm a amateur musician, you can listen to my songs at [NetEase Cloud Music](https://music.163.com/#/artist?id=12702335).
 - 🎸 I won the first place in the school guitar competition, and I am a big fan of [Blues](https://en.wikipedia.org/wiki/Blues).
-- ☎ Connect with me on [LinkedIn](https://www.linkedin.com/in/sunzhiheng/).
+- ☎  Contact me through email 479488209@qq.com.
